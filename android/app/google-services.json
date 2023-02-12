@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142423667197",
+    "project_id": "jot-down-ef41f",
+    "storage_bucket": "jot-down-ef41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142423667197:android:1a86d867f971d69bb22994",
+        "android_client_info": {
+          "package_name": "com.example.jot_down"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142423667197-qul5r40hpg6k3nkrvhbigbe7h69tho65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jot_down",
+            "certificate_hash": "6ae14b0bae4a7cad25e646ed56561d0c99929dbd"
+          }
+        },
+        {
+          "client_id": "142423667197-hq9vsat4nnsaeig12prg61qo7nm8b239.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWumxoBr_yjNKxpB8X1reUsajtjKiqe30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142423667197-hq9vsat4nnsaeig12prg61qo7nm8b239.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
